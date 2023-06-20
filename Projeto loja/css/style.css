@@ -23,6 +23,10 @@ h1 {
     margin-bottom: 10px;
 }
 
+.modeloWindowArea {
+    display: none;
+}
+ 
 header {
     display: none;
     left: 0;
@@ -133,6 +137,11 @@ aside {
     width: 0vw;
     overflow-x: hidden;
     font-family: 'Bebas Neue', Arial, Helvetica;
+    transition: all ease 0.2s;
+}
+
+aside.show{
+    width: 30vw;
 }
 
 .cart-area {

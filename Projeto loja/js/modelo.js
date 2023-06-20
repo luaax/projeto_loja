@@ -4,8 +4,8 @@ let modeloJson = [
     name: 'Hello Kitty Kawaii',
     img: 'img/hellokitty01.jpg',
     price: 75.19,
-    sizes: ['malha', 'algodão', 'dry'],
-    description: 'Blusa Básica Manga Curta',
+    sizes: ['rosa', 'coração', 'dry'],
+    description: 'Hello Kitty',
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ let modeloJson = [
     img: 'img/hellokitty02.jpg',
     price: 70.0,
     sizes: ['algodão', 'malha', 'dry'],
-    description: 'Blusa Básica Manga Curta',
+    description: 'Hello Kitty',
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ let modeloJson = [
     img: 'img/hellokitty03.jpg',
     price: 80.45,
     sizes: ['dry', 'malha', 'algodão'],
-    description: 'Blusa Básica Manga Curta',
+    description: 'Hello Kitty',
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ let modeloJson = [
     img: 'img/hellokitty04.jpg',
     price: 89.99,
     sizes: ['algodão', 'malha', 'dry'],
-    description: 'Blusa Básica Manga Curta',
+    description: 'Hello Kitty',
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ let modeloJson = [
     img: 'img/hellokitty05.jpg',
     price: 65.90,
     sizes: ['malha', 'algodão', 'dry'],
-    description: 'Blusa Básica Manga Curta',
+    description: 'Hello Kittya',
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ let modeloJson = [
     img: 'img/hellokitty06.jpg',
     price: 18.55,
     sizes: ['malha', 'dry', 'algodão'],
-    description: 'Blusa Básica Manga Curta',
+    description: 'Hello Kitty',
   },
 
 ];
