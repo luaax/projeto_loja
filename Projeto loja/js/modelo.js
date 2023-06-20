@@ -1,0 +1,51 @@
+let modeloJson = [
+  {
+    id: 1,
+    name: 'Hello Kitty Kawaii',
+    img: 'img/hellokitty01.jpg',
+    price: 75.19,
+    sizes: ['malha', 'algodão', 'dry'],
+    description: 'Blusa Básica Manga Curta',
+  },
+  {
+    id: 2,
+    name: 'Camiseta amarela',
+    img: 'img/hellokitty02.jpg',
+    price: 70.0,
+    sizes: ['algodão', 'malha', 'dry'],
+    description: 'Blusa Básica Manga Curta',
+  },
+  {
+    id: 3,
+    name: 'Camiseta Preta',
+    img: 'img/hellokitty03.jpg',
+    price: 80.45,
+    sizes: ['dry', 'malha', 'algodão'],
+    description: 'Blusa Básica Manga Curta',
+  },
+  {
+    id: 4,
+    name: 'Camiseta Pink',
+    img: 'img/hellokitty04.jpg',
+    price: 89.99,
+    sizes: ['algodão', 'malha', 'dry'],
+    description: 'Blusa Básica Manga Curta',
+  },
+  {
+    id: 5,
+    name: 'Camiseta Azul',
+    img: 'img/hellokitty05.jpg',
+    price: 65.90,
+    sizes: ['malha', 'algodão', 'dry'],
+    description: 'Blusa Básica Manga Curta',
+  },
+  {
+    id: 6,
+    name: 'Camiseta Vermelha',
+    img: 'img/hellokitty06.jpg',
+    price: 18.55,
+    sizes: ['malha', 'dry', 'algodão'],
+    description: 'Blusa Básica Manga Curta',
+  },
+
+];
